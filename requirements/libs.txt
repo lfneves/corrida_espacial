@@ -1,0 +1,6 @@
+-all libsdl-dev packages
+libportmidi
+libjpeg-dev
+libpng-dev
+python2.7-dev
+
